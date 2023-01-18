@@ -11,3 +11,4 @@ Will be using -
 3. TailwindCSS
 
 The project has been crafted with VITE.
+# advanced-todo-app
